@@ -1,0 +1,33 @@
+
+/* CSS File*/
+
+.change-color{
+color:purple;
+font-style: italic;
+}
+
+#change{
+    color: red;
+}
+
+.hover-color:hover{
+    color: brown;
+}
+
+a:link{
+	color:black;
+}
+
+a:visited{
+	color:darkgreen;
+}
+
+a:hover{
+    color:blue!important;
+}
+
+a:active{
+	color:orange!important;
+}
+
+
